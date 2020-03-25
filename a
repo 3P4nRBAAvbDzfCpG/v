@@ -1,21 +1,12 @@
 {
-  "ads":"true",
+  "ads":"false",
   "update":[{
-    "version":"2",
-    "title":"This app is now Open Source",
-    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
-    "size":"https://git.io/JeY69"
+    "version":"3",
+    "title":"New Update ",
+    "description":"Update Signal VPN",
+    "size":"5 MB"
   }],
-  "blocked":[
-    {"id":0, "app":"com.android.game"},
-    {"id":1, "app":"com.utorrent.client"},
-    {"id":2, "app":"com.torrent.client"},
-    {"id":3, "app":"com.tor.client"},
-    {"id":4, "app":"com.insta.client"},
-    {"id":5, "app":"com.facebook.client"},
-    {"id":6, "app":"com.get.client"}
-  ],
+  "blocked":[],
   "free":[
-    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"104.248.93.187","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"Hamburg","country":"Germany","image":"germany","ip":"104.248.93.187","active":"true","signal":"b"}]
-}
+    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"88.99.172.99","active":"true","signal":"a"}
+    }
