@@ -9,4 +9,4 @@
   "blocked":[],
   "free":[
     {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"88.99.172.99","active":"true","signal":"a"}
-    }
+}
