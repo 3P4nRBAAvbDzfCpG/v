@@ -6,7 +6,10 @@
     "description":"Update Signal VPN",
     "size":"5 MB"
   }],
-  "blocked":[],
+  "blocked":[
+  {"id":0, "app":"com.android.game"}
+  ],
   "free":[
     {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"88.99.172.99","active":"true","signal":"a"}
+    ]
 }
